@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Alex isaac bot",
+	"prefix": "•",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -101,7 +101,7 @@
 		"telegram": {
 			"enable": false,
 			"botToken": "",
-			"chatId": "",
+			"chatId": "61550931943785",
 			"note": "Can send notifications to many chatId, separate by comma or space, example: \"123456789 987654321\" (without backslash)"
 		},
 		"discordHook": {
